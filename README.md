@@ -1,4 +1,4 @@
-Hi there 👋
+##### Howdy 🤠
 I'm a recent BSCS grad, probably open to work or cool projects, reach me at beckcarver (at-symbol) proton (dot) me
 <!--
 **beckcarver/beckcarver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
